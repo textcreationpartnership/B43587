@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A fairing for maids. Being the honest maids councel to all other, better then she had given her by her mother, she wishes maides in time for to be wary, and with what young-men they intend to marry, a single life is gallant she doth say, for being bound perforce they must obey.</title>
+            <author>J. P.</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B43587</idno><idno type="EEBO-CITATION">625106312</idno>
+  <idno type="VID">211245</idno>
+  <idno type="EEBO-PROQUEST">2240863540</idno>
+  
+            <idno type="OCLC"> 625106312</idno>
+            <idno type="OCLC">ocn 625106312</idno>
+            <idno type="STC">Wing P52</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B43587)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 211245)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2968:19[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A fairing for maids. Being the honest maids councel to all other, better then she had given her by her mother, she wishes maides in time for to be wary, and with what young-men they intend to marry, a single life is gallant she doth say, for being bound perforce they must obey.</title>
+                  <author>J. P.</author>
+               </titleStmt>
+               <extent>1 folded sheet ([2] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>Printed for Fra. Grove on Snow-hill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1656?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>In verse.</note>
+                  <note>Place of publication and publisher from colophon.</note>
+                  <note>Date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Signed at end: J.P.</note>
+                  <note>"To the tune of, He that has most mony, &amp;c."</note>
+                  <note>Item 13 of 32 at reel 2968:19.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Ballads, English --  17th century.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="song">
+            <pb facs="tcp:211245:1"/>
+            <head>A Fairing for Maids.</head>
+            <argument>
+               <lg>
+                  <l>Being the honest Maids Councel to all other,</l>
+                  <l>Better then she had given her by her Mother,</l>
+                  <l>She wishes Maides in time for to be wary</l>
+                  <l>And with what Young-men they intend to marry,</l>
+                  <l>A single life is gallant she doth say</l>
+                  <l>For being bound perforce they must obey.</l>
+               </lg>
+            </argument>
+            <opener>
+               <hi>To the Tune of, <hi>He that has most mony, &amp;c.</hi>
+               </hi>
+            </opener>
+            <p>
+               <figure>
+                  <figDesc>woodcut of a man</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>woodcut of a woman</figDesc>
+               </figure>
+            </p>
+            <lg>
+               <l>ALl you brave Damsels come lend your attention,</l>
+               <l>I a brave Fairing unto you will send</l>
+               <l>The councel is honest of which I make mention</l>
+               <l>the Verses are witty which here I have pen'd</l>
+               <l>Some young-men are honest, and some are deceitful</l>
+               <l>and some with fair spéeches wil lead you away.</l>
+               <l>Then chuse not a young-man the which is ungrateful</l>
+               <l>
+                  <hi>for when you are bound, then you needs must obey.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>First I advise you all that hear this Ditty</l>
+               <l>with due admonishion in time to be rul'd</l>
+               <l>For Youngmen are cunning in Country and City</l>
+               <l>then sée that by policy you be not fool'd</l>
+               <l>Some wil speak you most fair, thinking to insnare you</l>
+               <l>and many cunning baits for you will lay.</l>
+               <l>But I wish all Maidens in time to be wary</l>
+               <l>
+                  <hi>for when you are bound, then you needs must obey</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>You that are single and in haste would marry</l>
+               <l>thinking you have staid your time over-long</l>
+               <l>Let me advise you forthwith to be wary,</l>
+               <l>for hasty marriages oft produceth wrong,</l>
+               <l>When you are wedded then comes care and trouble</l>
+               <l>then farewel single life and Maidens joy</l>
+               <l>If Husbands be dogged then woes do redouble</l>
+               <l>
+                  <hi>for when you are bound, then you needs must obey</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>What if they promise and vow they do love you,</l>
+               <l>yet ne'r the sooner do you them beléeve</l>
+               <l>For it is but policy some waies to prove you</l>
+               <l>or by some flattering waies you to deceive</l>
+               <l>Some are so skilfull and crafty in wooing,</l>
+               <l>that they will follow you both night and day,</l>
+               <l>But when they have gain'd you it proves your undo<g ref="char:EOLhyphen"/>ing</l>
+               <l>
+                  <hi>for when you are bound, you needs must obey.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Some young-men are civil and wooe so demure</l>
+               <l>butter would not melt in their mouths you would think</l>
+               <l>But when they have won you they are crabed &amp; sowre</l>
+               <l>and from their old promises straight they wil shrink</l>
+               <l>He that looks most civill as often is spoken</l>
+               <l>when he weds a Maiden her bones he will pay,</l>
+               <l>Then let this to maidens be still a true token</l>
+               <l>
+                  <hi>for when you are bound, then you needs must obey</hi>
+               </l>
+            </lg>
+            <div n="2" type="part">
+               <pb facs="tcp:211245:1"/>
+               <head>The second part to the same tune.</head>
+               <p>
+                  <figure>
+                     <figDesc>woodcut of a man</figDesc>
+                  </figure>
+                  <figure>
+                     <figDesc>woodcut of a woman</figDesc>
+                  </figure>
+               </p>
+               <lg>
+                  <l>THer's many wil promise you shal live most gallant</l>
+                  <l>until they have brought you unto their own bow</l>
+                  <l>But when they have gain'd you they will spend your talent</l>
+                  <l>this by experinece some maidens do know</l>
+                  <l>Some do not wooe for love nor for beauty,</l>
+                  <l>but séek after riches as much as they may</l>
+                  <l>Then maidens néer yéeld unto such men in duty</l>
+                  <l>
+                     <hi>for when you are bound, then you needs must obey.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Whilst you are single there's none to curb you,</l>
+                  <l>go to bed quietly and take your ease</l>
+                  <l>Early or late there's none to disturb you</l>
+                  <l>w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lk abroad where you and when you please</l>
+                  <l>A single life is frée from all danger,</l>
+                  <l>then maids imbrace it as long as you may,,</l>
+                  <l>And never yéeld to neighbor nor stranger</l>
+                  <l>
+                     <hi>for when you are bound, then you needs must obey.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>When you are wedded then farewel all pleasure</l>
+                  <l>And lest your Husband be loving and kind,</l>
+                  <l>Marrie in haste, you will repent at leasure,</l>
+                  <l>this by experience too many doe find</l>
+                  <l>Children procéeding must have cloaths and diet</l>
+                  <l>and Nurses wages oft times you must pay</l>
+                  <l>When Maids from such Taxes do stil live at quiet</l>
+                  <l>
+                     <hi>for when you are bound, then you needs must obey</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Yet I will not any Maiden disparage</l>
+                  <l>if she a constant Youth chance for to find</l>
+                  <l>Then let her joyn with him in lawful marriage</l>
+                  <l>if he unto her be loving and kind,</l>
+                  <l>Where love remaineth it is a great blessing</l>
+                  <l>but if men be froward and sullen I say</l>
+                  <l>There the womans woe is alwaies increasing</l>
+                  <l>
+                     <hi>for when they are bound, then they needs must obey</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Now in love I wish all Maids to consider,</l>
+                  <l>These witty Verses which here I have pen'd.</l>
+                  <l>Though the gift be smal yet except of the giver</l>
+                  <l>this Fairing through all parts to maidens I send,</l>
+                  <l>And so for to end with my old Resolution</l>
+                  <l>the which is both honest and true I dare safe</l>
+                  <l>All Maidens be rul'd by this Song in conclusion</l>
+                  <l>
+                     <hi>for when you are bound, then you needs must obey</hi>
+                  </l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+            <closer>
+               <signed>J. P.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London Printed for Fra. Grove on Snow-hill.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
